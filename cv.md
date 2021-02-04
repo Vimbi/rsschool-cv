@@ -33,5 +33,7 @@ https://github.com/Vimbi
 - https://itgid.info/
 6. Codewars
 - https://www.codewars.com/users/Vimbi
+7. Juriy Bura. React + Redux - Professional Development (not finished yet)
+- https://www.udemy.com/course/pro-react-redux/
 
 ### English level: A2
